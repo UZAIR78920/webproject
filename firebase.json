@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "public": "pensieve",
+    "public": "src",
     "ignore": [
       "firebase.json",
       "**/.*",
